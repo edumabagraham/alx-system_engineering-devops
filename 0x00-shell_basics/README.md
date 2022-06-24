@@ -1,6 +1,7 @@
 # 00x00. Shell,basics
 ---
-0-current_working_directory - Write a script that prints the absolute path name of the current working directory.
+```diff
+0-current_working_directory ``` - Write a script that prints the absolute path name of the current working directory.
 
 1-listit - Display the contents of your current directory.
 
